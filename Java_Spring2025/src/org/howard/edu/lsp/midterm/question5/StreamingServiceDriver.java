@@ -1,3 +1,5 @@
+// Source: https://www.geeksforgeeks.org/interfaces-in-java/
+// Source: https://www.geeksforgeeks.org/polymorphism-in-java/
 package org.howard.edu.lsp.midterm.question5;
 
 /**
