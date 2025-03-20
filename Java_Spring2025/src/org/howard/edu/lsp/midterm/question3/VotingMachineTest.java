@@ -29,7 +29,7 @@ public class VotingMachineTest {
         boolean success = vm.castVote("Eve");
         System.out.println("Vote for Eve successful? " + success);
 
-        // Displaying results
-        System.out.println("Winner: " + vm.getWinner());
+        // Displaying results (adjusted to match expected output)
+        System.out.println(vm.getWinner());
     }
 }
