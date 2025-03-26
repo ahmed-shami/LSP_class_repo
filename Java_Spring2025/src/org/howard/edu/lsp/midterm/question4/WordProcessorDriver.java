@@ -1,5 +1,4 @@
 // Source: https://www.geeksforgeeks.org/java-string-split-method/
-
 package org.howard.edu.lsp.midterm.question4;
 
 import java.util.List;
