@@ -1,0 +1,15 @@
+Question #4 – Design Patterns Reflection
+
+While design patterns offer structure and reusability,
+an instance where using a design pattern may not be beneficial
+is in smaller-scale applications or beginner-level projects.
+
+As discussed in lecture, applying complex patterns—like Abstract Factory or Observer—
+can overcomplicate a simple design. This can lead to confusion for new developers,
+especially if they aren't fully comfortable with inheritance, interfaces, or polymorphism.
+
+In such cases, forcing a pattern can introduce unnecessary layers, making
+maintenance and debugging more difficult than if the code had been kept straightforward.
+
+So while patterns are powerful, our class emphasized that they should only be
+applied when the problem genuinely calls for it—not just for the sake of using one.
